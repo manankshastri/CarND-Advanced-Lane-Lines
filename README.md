@@ -17,21 +17,21 @@ The goals / steps of this project are the following:
 
 <hr>
 <p>Stage I:</p>
-<img src="images/1.JPG" style="width:500;height:500px;"> <br>
+<img src="images/1.JPG" style="width:500;height:500px;">
 <hr>
 <p>Stage II:</p>
-<img src="images/2.JPG" style="width:500;height:500px;"> <br>
+<img src="images/2.JPG" style="width:500;height:500px;">
 <hr>
 <p>Stage III:</p>
-<img src="images/3.JPG" style="width:500;height:500px;"> <br>
+<img src="images/3.JPG" style="width:500;height:500px;">
 <hr>
 <p>Stage IV:</p>
-<img src="images/4.JPG" style="width:500;height:500px;"> <br>
+<img src="images/4.JPG" style="width:500;height:500px;">
 <hr>
 <p>Stage V:</p>
-<img src="images/5.JPG" style="width:500;height:500px;"> <br>
+<img src="images/5.JPG" style="width:500;height:500px;">
 <hr>
 <p>Stage VI:</p>
-<img src="images/6.JPG" style="width:500;height:500px;"> <br>
+<img src="images/6.JPG" style="width:500;height:500px;">
 <hr>
 
