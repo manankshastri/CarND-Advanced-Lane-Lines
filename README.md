@@ -34,4 +34,7 @@ The goals / steps of this project are the following:
 <p>Stage VI:</p>
 <img src="images/6.JPG" style="width:500;height:500px;">
 <hr>
+<p>Final Result</p>
+<img src="images/7.webp" style="width:500;height:500px; class="center"">
+<hr>
 
